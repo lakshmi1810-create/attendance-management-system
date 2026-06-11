@@ -50,13 +50,13 @@ python attendance.py
 ## 📸 Output Screenshots
 
 ### Employee Input
-![Screenshot](images/output1.png)
+![Screenshot](output1.png)
 
 ### Attendance Processing
-![Screenshot](images/output2.png)
+![Screenshot](output2.png)
 
 ### Final Report
-![Screenshot](images/output3.png)
+![Screenshot](output3.png)
 
 ## 🔮 Future Improvements
 - Add database support (MySQL / SQLite)
