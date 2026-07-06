@@ -1,6 +1,6 @@
-# 📊 Attendance Management System
+#  Attendance Management System
 
-## 📌 Project Overview
+##  Project Overview
 This is a Python-based **Attendance Management System** that tracks employee attendance using entry and exit times.  
 The system classifies attendance into:
 - Present
@@ -14,7 +14,7 @@ It also generates a final attendance report for all employees.
 
 ---
 
-## 🚀 Features
+##  Features
 - Employee-wise attendance tracking
 - Daily entry and exit time input
 - Automatic attendance classification
@@ -24,7 +24,7 @@ It also generates a final attendance report for all employees.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python 3
 
 ---
@@ -42,12 +42,12 @@ attendance-management-system/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 bash
 python attendance.py
 
-## 📸 Output Screenshots
+##  Output Screenshots
 
 ### Employee Input
 ![Screenshot](output1.png)
@@ -58,11 +58,11 @@ python attendance.py
 ### Final Report
 ![Screenshot](output3.png)
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Add database support (MySQL / SQLite)
 - Export attendance report to CSV
 - GUI version using Tkinter
 - Login system for employees
 
-## 👨‍💻 Author
+##  Author
 Lakshmi Chauhan
